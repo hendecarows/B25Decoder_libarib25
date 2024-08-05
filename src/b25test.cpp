@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
 
 	while (true)
 	{
-		auto c = getopt(argc, argv, "b:");
+		auto c = getopt(argc, argv, "b:h");
 		if (c == -1) break;
 		switch (c)
 		{
