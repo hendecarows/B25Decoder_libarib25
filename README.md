@@ -1,5 +1,11 @@
 # B25Decoder_libarib25
 
+<https://github.com/tsukumijima/Multi2Dec>
+
+Linux版[EDCB][link_edcb]で動作する`B25Decoder.so`を使用して下さい。
+
+---
+
 B25Decoder.dllと互換インターフェースを持つLinux版B25Decoder.soです。
 
 `/usr/local/lib/edcb/B25Decoder.so`として配置すれば、[EDCB][link_edcb]のB25デコード処理が有効になります。
